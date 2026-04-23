@@ -5,7 +5,7 @@ Overview:-
 This is a Spring Boot application that provides a RESTful service to shorten long URLs. The project focuses on efficient data mapping, unique ID generation, and high-performance redirection logic.
 
 Tech Stack:-
-Language: Java 17+
+Language: Java 17
 Framework: Spring Boot
 Database: MySQL
 Build Tool: Maven
