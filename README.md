@@ -1,5 +1,5 @@
 # url-shortener
-pring Boot application designed to shorten long URLs into manageable links.
+Spring Boot application designed to shorten long URLs into manageable links.
 
 Overview:-
 This is a Spring Boot application that provides a RESTful service to shorten long URLs. The project focuses on efficient data mapping, unique ID generation, and high-performance redirection logic.
